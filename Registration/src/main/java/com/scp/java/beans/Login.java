@@ -1,5 +1,5 @@
 package com.scp.java.beans;
-
+//POJO
 public class Login 
 {
 	public String username;
