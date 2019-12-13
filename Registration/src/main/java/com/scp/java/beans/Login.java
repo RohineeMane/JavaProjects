@@ -4,7 +4,8 @@ public class Login
 {
 	public String username;
 	public String password;
-	public Login() {
+	public Login() 
+	{
 		super();
 	}
 	public Login(String username, String password) {
